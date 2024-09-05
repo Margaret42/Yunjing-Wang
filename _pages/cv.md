@@ -27,10 +27,6 @@ Research Experience
   * Haverford College
   * Studied galaxy classification, investigating the correlation between spiral structure and baryonic mass fraction, and utilized Python for data analysis and machine learning on galaxy data.
 
-* Summer 2020: Particle Physics Research Intern
-  * Cathaypath Institute of Science, Shanghai
-  * Developed proficiency in particle physics concepts and statistical analysis using Python.
-
 Work Experience
 ======
 * Fall 2023 - Present: Physics Intro Labs Grading
