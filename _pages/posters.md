@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 ## STS2024 Poster
 
-<img src=[/file/STS2024%20poster.png](https://margaret42.github.io/Yunjing-Wang/file/STS2024%20poster.png) alt="STS2024 Poster" style="width: 400px"/>
+<img src=["/file/STS2024%20poster.png"](https://margaret42.github.io/Yunjing-Wang/file/STS2024%20poster.png) alt="STS2024 Poster" style="width: 400px"/>
 
 ## CUWiP2024 Poster
 
