@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'Try to Write Something'
+date: 2024-09-15
 permalink: /posts/2024/09/write-some-thing/
 tags:
   - cool posts
