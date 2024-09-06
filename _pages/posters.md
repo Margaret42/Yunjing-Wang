@@ -15,7 +15,7 @@ redirect_from:
 
 ## KINSC2023
 
-<img src="/file/KINSC2023.pptx.png" alt="KINSC2023" style="max-width: 600px; width: 100%;"/>
+<img src="/file/KINSC2023.png" alt="KINSC2023" style="max-width: 600px; width: 100%;"/>
 
 ## STS2024 Poster
 
