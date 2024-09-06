@@ -8,7 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-# Papers
 
 ## Commissioning of the Xenoscope Time Projection Chamber for the DARWIN Dark Matter Observatory
 - **Date**: September, 2024 
