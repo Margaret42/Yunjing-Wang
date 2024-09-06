@@ -6,7 +6,7 @@
 
 main:
   - title: "Papers"
-    url: papers.html
+    url: /papers/
 
 
   - title: "Posters"
