@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /papers
 ---
-{% include base_path %}
+
 # Papers
 
 ## Commissioning of the Xenoscope Time Projection Chamber for the DARWIN Dark Matter Observatory
