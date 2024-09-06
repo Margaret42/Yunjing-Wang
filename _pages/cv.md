@@ -12,6 +12,15 @@ Education
 ======
 * B.S. in Physics and Astronomy, Haverford College, Expected May 2026
 
+Conference Presentations
+======
+* Research Presentation: "Exploring the Relationship Between Spiral Structure and Baryonic Mass Fraction in Galaxies"
+  * Keck Northeast Astronomy Consortium Student Research Symposium, October 2023
+* Poster Presentation: "The Impact of Baryonic Mass Fraction on the Presence of Spiral Structure in Disc Galaxies"
+  * 243rd AAS Meeting, January 2024
+* Poster Presentation: "Exploring Dark Matter Detection: The DARWIN Experiment and Xenoscope"
+  * Start Talking Science, October 2024 (upcoming)
+
 Research Experience
 ======
 * Summer 2024: Commissioning and Calibration of the Xenoscope TPC
@@ -47,14 +56,6 @@ Skills
 * Microsoft Word, Excel, PowerPoint
 * Languages: Mandarin (native), Japanese (limited working capacity)
 
-Conference Presentations
-======
-* Research Presentation: "Exploring the Relationship Between Spiral Structure and Baryonic Mass Fraction in Galaxies"
-  * Keck Northeast Astronomy Consortium Student Research Symposium, October 2023
-* Poster Presentation: "The Impact of Baryonic Mass Fraction on the Presence of Spiral Structure in Disc Galaxies"
-  * 243rd AAS Meeting, January 2024
-* Poster Presentation: "Exploring Dark Matter Detection: The DARWIN Experiment and Xenoscope"
-  * Start Talking Science, October 2024 (upcoming)
 
 Activities and Clubs
 ======
