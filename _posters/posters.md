@@ -1,13 +1,13 @@
 ---
-layout: default
-title: "Posters"
-permalink: /posters/
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
+{% include base_path %}
 
-# Posters
-Welcome to the Posters page.
-
-You can add individual posters here:
-
-- [Poster 1](/posters/poster1/)
-- [Poster 2](/posters/poster2/)
+Education
+======
+* B.S. in Physics and Astronomy, Haverford College, Expected May 2026
