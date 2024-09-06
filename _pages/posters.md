@@ -7,7 +7,9 @@ redirect_from:
   - /posters
 ---
 {% include base_path %}
+## STS2024 Poster
 
+<img src="/file/STS2024%20poster.png" alt="STS2024 Poster" style="max-width: 600px; width: 100%;"/>
 
 ## CUWiP2024 Poster
 
@@ -17,6 +19,4 @@ redirect_from:
 
 <img src="/file/KINSC2023.png" alt="KINSC2023" style="max-width: 600px; width: 100%;"/>
 
-## STS2024 Poster
 
-<img src="/file/STS2024%20poster.png" alt="STS2024 Poster" style="max-width: 600px; width: 100%;"/>
