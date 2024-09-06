@@ -7,16 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Papers</h1>
-
-<h2>Commissioning of the Xenoscope Time Projection Chamber for the DARWIN Dark Matter Observatory</h2>
-<ul>
-  <li><strong>Date</strong>: September, 2024</li>
-  <li><strong>Link</strong>: <a href="/file/Commissioning_of_the_Xenoscope_Time_Projection_Chamber_for_the_DARWIN_Dark_Matter_Observatory(2).pdf">Download PDF</a></li>
-</ul>
-
-<h2>How Spiral Structure Depends on Baryonic Mass Fraction of Galaxies</h2>
-<ul>
-  <li><strong>Date</strong>: September, 2023</li>
-  <li><strong>Link</strong>: <a href="How_Spiral_Structure_Depends_on_Baryonic_Mass_Fraction_of_Galaxies.pdf">Download PDF</a></li>
-</ul>
+{% for post in site.posters %}
+  {% include archive-single.html %}
+{% endfor %}
