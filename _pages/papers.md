@@ -15,4 +15,4 @@ redirect_from:
 
 ## How Spiral Structure Depends on Baryonic Mass Fraction of Galaxies
 - **Date**: September, 2023 
-- **Link**: [Download PDF]([How_Spiral_Structure_Depends_on_Baryonic_Mass_Fraction_of_Galaxies.pdf](https://github.com/Margaret42/Yunjing-Wang/blob/995c532eff624fde22fe15634e421bbf24aba580/file/How_Spiral_Structure_Depends_on_Baryonic_Mass_Fraction_of_Galaxies.pdf))
+- **Link**: [Download PDF](https://github.com/Margaret42/Yunjing-Wang/blob/995c532eff624fde22fe15634e421bbf24aba580/file/How_Spiral_Structure_Depends_on_Baryonic_Mass_Fraction_of_Galaxies.pdf)
