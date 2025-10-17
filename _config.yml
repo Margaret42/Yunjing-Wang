@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yunjing ‘Margaret’ Wang"
 title_separator          : "-"
 name                     : &name "Margaret"
-description              : &description "Physics & Astronomy major|Interested in Cosmology|Live as Dark Matter"
+description              : &description "Physics & Astronomy major"
 url                      : https://margaret42.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Yunjing-Wang" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "profile.png.png"
   name             : "Yunjing 'Margaret' Wang"
   pronouns         : "They/Them" # example: "They/Them"  
-  bio              : "Physics & Astronomy major|Interested in Cosmology|Live as Dark Matter"
+  bio              : "Physics & Astronomy major"
   location         : "Philadelphia, US"
   employer         : "Haverford College"
   uri              : 'https://margaret42.github.io/Yunjing-Wang'# URL
-  # email            : "ywang9@haverford.edu" 
+   email            : "ywang9@haverford.edu" 
 
   
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
-  # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=UeqSMdoAAAAJ"
   # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
@@ -64,7 +64,7 @@ author:
   # medium           : # URL
   # pinterest        : # Username
   # soundcloud       : # Username
-  steam            : # 2329667634
+  # steam            : # 2329667634
   # telegram         : # URL
   # tumblr           : # Username
   # twitter          : # Username for X / Twitter
