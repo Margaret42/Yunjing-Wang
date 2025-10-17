@@ -7,7 +7,7 @@ redirect_from:
   - /posters
 ---
 {% include base_path %}
-## STS2024 Poster
+## APS Poster
 
 <img src="https://margaret42.github.io/Yunjing-Wang/file/STS2024%20poster.png" alt="STS2024 Poster" style="width: 800px"/>
 
