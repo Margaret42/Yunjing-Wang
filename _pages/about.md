@@ -1,12 +1,10 @@
 ---
 permalink: /
-title: "Welcome to My Personal Page
-"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I’m Yunjing “Margaret” Wang, a physics and astronomy major at Haverford College, with a passion for cosmology and dark matter research. My work involves  computational research in galaxy classification and the calibration of liquid xenon detectors for the DARWIN experiment. I’m also a recipient of the ThinkSwiss scholarship and the Velay Fellowship. Currently, I’m focused on dark matter relic abundance project with professor Islam Khan. I aim to contribute to our understanding of the universe.
+I’m Yunjing “Margaret” Wang, a physics and astronomy major at Haverford College applying to PhD programs. With Prof. Copi and Prof. Starkman at Case Western Reserve University, I study topological cosmology—how the universe’s possible global shapes would imprint patterns in the cosmic microwave background.
 
-Outside of academics, I express my creativity through writing and developing original characters, as showcased on my [OC website](https://margaret42.github.io/Phosphor/).
